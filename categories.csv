@@ -1,0 +1,72 @@
+1,Hottest summer,the highest average afternoon temperature in June July and August.
+2,Coldest winter,the lowest average night-time temperature in December January and February.
+3,Coolest summer,the lowest average afternoon temperature in June July and August.
+4,Mildest winter,the highest average afternoon temperature in December January and February.
+5,Coldest spring,the lowest average daily temperature in March April and May.
+6,Coldest year-round,the lowest average of all daily temperatures for the year.
+7,Warmest year-round,the highest average of all daily temperatures for the year.
+8,Most freezing days,the greatest number of days annually with the lowest temperature at or below 0°C.
+9,Fewest freezing days,the fewest number of days annually with the lowest temperature at or below 0 °C.
+10,Most hot days (30°C or above),the greatest number of days annually with a daily high temperature of 30°C or above.
+11,Most cold days (-20°C or less),the greatest number of days annually with a daily low temperature of -20°C or below.
+12,Most hot and cold days,the greatest number of days annually with daily highs of 30°C or above and daily lows of -20°C or below.
+13,Warmest spring,the highest average daily temperature in March April and May.
+14,Warmest fall,the highest average daily temperature in September October and November.
+15,Wettest city (rain and snow),the greatest total annual rain and snow.
+16,Driest city,the least amount of total annual rain and snow.
+17,Snowiest city,the greatest total annual snowfall (cm).
+18,Lowest snowfall,the least amount of total annual snowfall (cm).
+19,Snowiest fall,the greatest total snowfall in September October and November.
+20,Snowiest spring,the greatest total snowfall in March April and May.
+21,Snowfall as a % of precipitation,the annual total snowfall (cm) as a % of annual total precipitation (mm).
+22,Rainiest city,the greatest total annual rainfall (mm).
+23,Most wet days,the greatest number of days annually with measurable precipitation at or above 0.2 mm.
+24,Most very wet days (25 mm or more),the greatest number of days annually with precipitation at or more than 25 mm.
+25,Most dry days,the greatest number of days annually with no measurable precipitation.
+26,Most snow days,the greatest number of days annually with measurable snowfall at or above 0.2 cm.
+27,Fewest snow days,the fewest number of days annually with measurable snowfall at or above 0.2 cm.
+28,Most heavy snowfall days (10 cm or more),the greatest number of days annually with a snowfall at or above 10 cm.
+29,Most huge snowfall days (25 cm or more),the greatest number of days annually with a snowfall at or above 25 cm.
+30,Longest snow cover season (days),the greatest number of days annually with snow covering the ground to a depth of at least 1 cm.
+31,Most deep snow cover days (10 cm or more),the greatest number of days annually with snow covering the ground to a depth of at least 10 cm.
+32,Greatest average snow depth January 31,the deepest median daily snow depth on January 31.
+33,Most freezing rain days,the greatest number of days annually with an occurrence of freezing rain or drizzle.
+34,Most blowing snow days,the greatest number of days annually with an occurrence of blowing snow.
+35,Most thunderstorm days,the greatest number of days annually with an occurrence of a thunderstorm.
+36,Fewest thunderstorm days,the fewest number of days annually with an occurrence of a thunderstorm.
+37,Foggiest city (days),the greatest number of days annually with an occurrence of fog (fog ice fog or freezing fog).
+38,Fewest fog days,the fewest number of days annually with an occurrence of fog (fog ice fog or freezing fog).
+39,Most smoke and haze days,the greatest number of days annually with an occurrence of smoke or haze.
+40,Sunniest year-round,the greatest number of hours annually with sunshine.
+41,Least sunshine year-round,the fewest number of hours annually with sunshine.
+42,Sunniest winter,the greatest number of hours of sunshine in December January and February.
+43,Sunniest summer,the greatest number of hours of sunshine in June July and August.
+44,Sunniest spring,the greatest number of hours of sunshine in March April and May.
+45,Sunniest fall,the greatest number of hours of sunshine in September October and November.
+46,Most sunny days year-round,the greatest number of days annually with an occurrence of sunshine.
+47,Fewest sunny days year-round,the fewest number of days annually with an occurrence of sunshine.
+48,Most sunny days in cold months,the greatest number of days from November through March inclusive with an occurrence of sunshine.
+49,Most sunny days in warm months,the greatest number of days from May through September inclusive with an occurrence of sunshine.
+50,Most heating degree-days,the greatest number of heating degree-days annually (accumulated average daily temperature below 18°C).
+51,Most cooling degree-days,the greatest number of cooling degree-days annually (accumulated average daily temperature above 18°C).
+52,Most growing degree-days,the greatest number of growing degree-days annually (accumulated average daily temperature above 5°C).
+53,Highest average pressure,the highest hourly average sea level pressure (kPa) annually.
+54,Lowest average pressure,the lowest hourly average sea level pressure (kPa) annually.
+55,Greatest average pressure difference,the greatest difference between highest and lowest monthly average sea level pressure (kPa).
+56,Most hours with low visibility,the greatest number of hours per year where the visibility is less than 1 km.
+57,Clearest skies year-round,the greatest number of hours annually with total cloud amount between 0 and 2 tenths.
+58,Cloudiest skies year-round,the greatest number of hours annually with total cloud amount between 8 and 10 tenths.
+59,Most clear skies in summer,the greatest number of hours in June July and August with total cloud amount between 0 and 2 tenths.
+60,Windiest city year-round,the highest average hourly wind speed (km/h) annually.
+61,Lightest wind speed year-round,the lowest average hourly wind speed (km/h) annually.
+62,Windiest winter,the highest average hourly wind speed (km/h) in December January and February.
+63,Windiest summer,the highest average hourly wind speed (km/h) in June July and August.
+64,Most days with light wind (5 km/h or less),the greatest number of days with at least one hour's wind speed at or less than 5 km/h.
+65,Most windy days (40 km/h or more),the greatest number of days annually with at least one hour's wind speed above 40 km/h.
+66,Extreme wind chill,the highest wind chill in the period between 1952 and 2000.
+67,Most high wind chill days (-30 or less),the greatest number of days with an occurrence of wind chill less than -30.
+68,Humidex days at or above 30,the greatest number of days annually with humidex at or above 30.
+69,High humidex days at or above 35,the greatest number of days annually with humidex at or above 35.
+70,Most humid summer city,the highest average hourly vapour pressure (kPa) in June July and August.
+71,Driest winter air,the lowest average hourly vapour pressure (kPa) in December January and February.
+72,Driest summer air,the lowest average hourly vapour pressure (kPa) in June July and August.
